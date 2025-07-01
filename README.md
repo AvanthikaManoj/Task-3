@@ -25,7 +25,7 @@ The model is trained on a small, manually created dataset of 6 sample comments f
 
 ## How to Run
 
-###Install Python packages
+### Install Python packages
 
 
 pip install -r requirements.txt
